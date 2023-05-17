@@ -1,0 +1,40 @@
+/* .box{
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.box ol{
+    border: 1px red solid;
+    border-radius: 10px;
+
+} */
+
+.user-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .user {
+   border: 1px red solid;
+   color: black;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    width: 500px;
+    border-radius: 10px;
+  }
+  
+  .user-number {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+
+
+
+
+
+
+
+
+
